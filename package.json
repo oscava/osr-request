@@ -1,0 +1,27 @@
+{
+  "name": "osr-request",
+  "version": "0.0.1",
+  "description": "http request",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscava/osr-request.git"
+  },
+  "keywords": [
+    "http",
+    "request"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscava/osr-request/issues"
+  },
+  "readmeFile":"README.md",
+  "homepage": "https://github.com/oscava/osr-request#readme"
+}
